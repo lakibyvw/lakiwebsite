@@ -1082,7 +1082,7 @@ section {
    Responsive Design
    ========================================================================== */
 @media (max-width: 992px) {
-  .hero-grid, .standards-grid, .visit-grid {
+  .hero-grid, .standards-grid, .visit-grid, .menu-grid {
     grid-template-columns: 1fr;
     text-align: center;
   }
